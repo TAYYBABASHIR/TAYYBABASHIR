@@ -24,6 +24,10 @@
 
 ### 👩‍💻 About Me
 
+Sophomore Software Engineering student who enjoys the "aha!" moment when a C# backend finally compiles.
+💻 I split my brain between the rigid logic of desktop apps and the creative chaos of HTML/CSS/JS.
+Currently on a mission to turn boring classroom theory into cool, functional projects that people can actually use.
+
 - 🔭 **Focus:** Crafting robust backend architectures and high-performance applications.
 - 📚 **Learning:** Currently expanding my toolkit with **Python** and **SQL**.
 - ⚡ **Passion:** I thrive on the challenge of debugging complex logic and optimizing system performance.
