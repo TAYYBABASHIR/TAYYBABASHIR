@@ -62,5 +62,5 @@ Currently on a mission to turn boring classroom theory into cool, functional pro
 
 ### 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAYYBABASHIR&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TayybaBashir2313&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
